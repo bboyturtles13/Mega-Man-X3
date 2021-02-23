@@ -1,0 +1,26 @@
+{
+    "name": "mega-man-x3",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        ".github/ISSUE_TEMPLATE/bug_report.md",
+        ".github/ISSUE_TEMPLATE/feature_request.md",
+        "CODE_OF_CONDUCT.md",
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.3.44",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
